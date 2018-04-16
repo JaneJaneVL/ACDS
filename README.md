@@ -2,7 +2,7 @@
 Accelerated by Coupling Directional Search (ACDS) Method
 Computer Experiments with number of iterations required
 
-Article: https://arxiv.org/abs/1710.00162v1  (in Russian)
+Article: https://arxiv.org/abs/1710.00162  (in Russian)
 
 Accelerated Directional Search Method with non-euclidian prox-structure
 
